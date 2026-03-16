@@ -1,6 +1,6 @@
-# Huong Hua Co. Ltd. Website Project
+# Lambe Goods Trade. Website Project
 
-This README provides detailed information about the English version of the Huong Hua Co. Ltd. website. The website is tailored for a company in HCMC, Vietnam specializing in bathroom equipment design and construction, offering comprehensive insights into the company's services, portfolio, career opportunities, and more.
+This README provides detailed information about the English version of the Lambe Goods Trade. website. The website is tailored for a company in HCMC, Vietnam specializing in bathroom equipment design and construction, offering comprehensive insights into the company's services, portfolio, career opportunities, and more.
 
 It is designed to help the company expand its online presence, attract new (and foreign) clients, and showcase its expertise in bathroom solutions. The website features a clean, modern design with a user-friendly interface, making it easy for visitors to navigate and explore the company's offerings.
 
@@ -29,7 +29,7 @@ It is designed to help the company expand its online presence, attract new (and 
 
 ## Overview
 
-Huong Hua Co. Ltd. is dedicated to delivering top-quality bathroom solutions, ranging from design to installation and renovation. The website serves as a digital platform to showcase the company's expertise, project portfolio, client testimonials, and career opportunities.
+Lambe Goods Trade. is dedicated to delivering top-quality bathroom solutions, ranging from design to installation and renovation. The website serves as a digital platform to showcase the company's expertise, project portfolio, client testimonials, and career opportunities.
 
 ## User Interface
 
@@ -41,7 +41,7 @@ Huong Hua Co. Ltd. is dedicated to delivering top-quality bathroom solutions, ra
 
 ### 1. Home Page
 
-- Introduction to Huong Hua Co. Ltd.
+- Introduction to Lambe Goods Trade.
 - Quick navigation links to various sections of the website.
 
 ### 2. About Us
@@ -107,7 +107,7 @@ Huong Hua Co. Ltd. is dedicated to delivering top-quality bathroom solutions, ra
 
 ## Live Deployment
 
-The website is live at [Huong Hua Co. Ltd.](https://www.huonghuacoltd.com/). It is hosted on AWS EC2 and uses various cloud services for deployment and hosting, specifically:
+The website is live at [Lambe Goods Trade.](https://www.huonghuacoltd.com/). It is hosted on AWS EC2 and uses various cloud services for deployment and hosting, specifically:
 
 - Amazon RDS: For MySQL database hosting.
 - Amazon DocumentDB: For MongoDB database hosting.
@@ -123,7 +123,7 @@ The website is live at [Huong Hua Co. Ltd.](https://www.huonghuacoltd.com/). It 
 To set up the website locally, follow these steps:
 
 1. **Clone the Repository:**
-   - Use `git clone https://github.com/hoangsonww/Huong-Hua-Co-Website.git` to clone the repository.
+   - Use `git clone https://github.com/rama/Huong-Hua-Co-Website.git` to clone the repository.
 2. **Navigate to the Project Directory:**
    - `cd huong-hua-co-ltd-website`
 3. **Open the HTML Files:**

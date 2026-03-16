@@ -2,7 +2,7 @@
   <div id="app">
     <header>
       <!-- Header Content -->
-      Huong Hua Co. Ltd.
+      Lambe Goods Trade.
     </header>
 
     <main>

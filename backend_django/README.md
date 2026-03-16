@@ -1,10 +1,10 @@
-# Huong Hua Co., Ltd. Website Backend
+# Lambe Goods Trade Website Backend
 
 ---
 
 ## Overview
 
-This directory contains the backend code for Huong Hua Co., Ltd.'s official website. The backend is responsible for handling business logic, database interactions, and API endpoints to support the frontend of the website.
+This directory contains the backend code for Lambe Goods Trade's official website. The backend is responsible for handling business logic, database interactions, and API endpoints to support the frontend of the website.
 
 ## Technology Stack
 
@@ -29,7 +29,7 @@ Steps to install dependencies and set up the project:
 
 ```bash
 # Clone the repository
-git clone https://github.com/hoangsonww/Huong-Hua-Co-Ltd.git
+git clone https://github.com/rama/Huong-Hua-Co-Ltd.git
 
 # Navigate to the project directory
 cd django_root
